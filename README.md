@@ -12,7 +12,7 @@ Steps
 Assume CUDA 10.2 is installed on the system
 
 ```
-conda install -f environment.yml
+conda create -f environment.yml
 conda activate ner
 ```
 
